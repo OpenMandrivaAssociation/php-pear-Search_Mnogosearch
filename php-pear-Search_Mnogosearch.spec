@@ -18,7 +18,6 @@ Requires(preun): php-pear
 Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 This package provides wrapper classes for the mnoGoSearch search
