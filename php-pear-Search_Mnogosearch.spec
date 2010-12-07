@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.1.1
-Release:	%mkrel 10
+Release:	%mkrel 11
 Summary:	Wrapper classes for the mnoGoSearch extention
 License:	PHP License
 Group:		Development/PHP
